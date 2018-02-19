@@ -22,7 +22,7 @@ Settings
 About
 Scene Design, Layouts
 Colors
-Fonts
+Fonts- indiflower 
 Program
 Timer Design and Methods
 Gyroscope Methods
